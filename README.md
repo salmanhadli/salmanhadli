@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanhadli&label=Profile%20views&color=0e75b6&style=flat" alt="salmanhadli" /> </p>
 
-Current Software Developer at **Enocra Inc.** with **3+** years of experience specializing in JavaScript technologies. A super nerd who loves JavaScript & its frameworks, and libraries and enjoys customizing all of the development environments. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
+A Certiﬁcated, Resilient and Goal-oriented Software Developer developer with 3 years experience in designing, implementing, and maintaining cutting-edge software solutions of high-quality in diverse industries. Passionate about staying current with emerging technologies and applying them to enhance project eﬃciency
 
-## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
+## Software Developer | Innovator | Engineer!🙌
 
 🌱 I’m a JavaScript enthusiast and currently all into VueJs, ReactJS 🧡.  
 💬 Ask me about React, Vue, Node.js, JavaScript, TypeScript, career or technology advice 🙌.  
